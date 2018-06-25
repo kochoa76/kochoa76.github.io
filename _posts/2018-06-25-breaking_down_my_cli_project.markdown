@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Breaking down my CLI Project "
-date:       2018-06-25 21:17:10 +0000
+date:       2018-06-25 17:17:11 -0400
 permalink:  breaking_down_my_cli_project
 ---
 
@@ -18,7 +18,7 @@ The toughest part of the project for me lies in how to architect the layout and 
 
 I'd say the more challenging piece of the project was going the next layer deep and extracting data from each individual book's website, which involved having to click that book's page and scrape that data (book's synopsis). Figuring out how to use the CLI's input to pull up a book's name outside of the class's scope, while simultaneously calling a method to scrape the book page's website and print out the book's synopsis was my greatest challenge, and I was very excited to finally get it to work. 
 
-Overall it was really exciting to be able to create something on my own from scratch and see it work the way I designed it to.  I'm very much looking forward to more projects soon. If you'd like to see my CLI project you can view it here: https://github.com/kochoa76/Most-read-books-cli-app. 
+Overall it was really exciting to be able to create something on my own from scratch and see it work the way I designed it to.  I'm very much looking forward to more projects soon. If you'd like to see my CLI project you can view it here: https://github.com/kochoa76/Most-read-books-cli-app or you can find it published on Ruby Gems here: https://rubygems.org/gems/most_read_books
 
 
 
