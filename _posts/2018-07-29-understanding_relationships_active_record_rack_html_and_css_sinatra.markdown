@@ -6,9 +6,9 @@ permalink:  understanding_relationships_active_record_rack_html_and_css_sinatra
 ---
 
 
-After learning Ruby, the LearnCo curriculum quickly jumped into a diverse amount of languages that carried very specific and necessary roles, each accomplishing different tasks. I wanted to compile my thoughts and teachings so far into a high level, *simple* understanding of each languages' role in the overall application, and why each is necessary. 
+After learning Ruby, the LearnCo curriculum quickly jumped into a diverse amount of languages that carried very specific roles accomplishing different tasks. I wanted to compile my thoughts from these lessons to concisely and *simply* understand the roles of each language within the Sinatra Project application, and why they're necessary. 
 
-To begin in this blog, I'll dive into an overview of each language, and the second piece will be analyzing how each language plays a part in the overall application. 
+To begin in this blog, I'll dive into an overview of each language, and the last piece will analyze how each language plays a part in the overall application. 
 
 **SQL/Active Record **
 
