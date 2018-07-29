@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Understanding Relationships ** Active Record/ Rack/ HTML & CSS/ Sinatra** "
-date:       2018-07-29 22:26:20 +0000
+title:      "Understanding Relationships with Active Record/ Rack/ HTML & CSS/ Sinatra"
+date:       2018-07-29 18:26:20 -0400
 permalink:  understanding_relationships_active_record_rack_html_and_css_sinatra
 ---
 
