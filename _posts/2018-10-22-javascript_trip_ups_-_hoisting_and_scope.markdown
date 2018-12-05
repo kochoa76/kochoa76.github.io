@@ -33,16 +33,16 @@ myFunc() is declared in the global execution context and thus, is in the global 
 
 **Block Scope** - also creates it's own scope --but here is the tricky part, Javascript treats var differently than const and let. So let's dive into these variables some more: 
 
-			if (true) {
+	`		if (true) {
 				 var myVar = 42;
 			}
 
 			myVar;
-			// => 42
+			// => 42 `
 				
 variables declared with var are accessabile outside its scope. 
 				
-				if (true) {
+				`if (true) {
         const myVar = 42;
  
         let myOtherVar = 9001;
@@ -52,7 +52,7 @@ variables declared with var are accessabile outside its scope.
        // Uncaught ReferenceError: myVar is not defined
  
        myOtherVar;
-       // Uncaught ReferenceError: myOtherVar is not defined
+       // Uncaught ReferenceError: myOtherVar is not defined `
 			
 As you can see from these examples a variable declared with var is accessible while those declared with const and let are not. This is why I thought I could avoid scoping issues by solely utilizing const and let. 
 
