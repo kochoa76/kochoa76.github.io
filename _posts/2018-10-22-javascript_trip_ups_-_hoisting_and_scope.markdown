@@ -54,7 +54,7 @@ variables declared with var are accessabile outside its scope.
        myOtherVar;
        // Uncaught ReferenceError: myOtherVar is not defined `
 			
-As you can see from these examples a variable declared with `var` is accessible while those declared with `const` and let are not. This is why I thought I could avoid scoping issues by solely utilizing `const` and `let`. 
+As you can see from these examples a variable declared with `var` is accessible while those declared with `const` and `let` are not. This is why I thought I could avoid scoping issues by solely utilizing `const` and `let`. 
 
 ** Scope Chain**
 
