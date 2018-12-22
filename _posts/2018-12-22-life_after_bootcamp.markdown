@@ -1,16 +1,16 @@
 ---
 layout: post
 title:      "Life after Bootcamp"
-date:       2018-12-22 17:56:30 +0000
+date:       2018-12-22 12:56:30 -0500
 permalink:  life_after_bootcamp
 ---
 
 
-The day before Thanksgiving I graduated from Flatiron School's Full Stack Web Development course. It was surreal to start. I finished something that I remember fearing would be unattainable when I signed up for the course.  It's funny how we assume the worst when attempting something new and scary.  I like to think of it as life's never ending joke. 
+The day before Thanksgiving I graduated from Flatiron School's Full Stack Web Development course. It was surreal to start. I finished something that I remember fearing might go unfinished when I signed up for the course.  It's funny how we assume the worst when attempting something new and scary.  I like to think of it as life's never ending joke. 
 
-I did it, I graduated. Thanksgiving Day I was grateful, but it quickly disintegrated when I began to realize what was to come next. I got to the top of the mountain, accomplishing the goal I'd set for 7 months only to find I had but arrived to the first resting spot, an had an even higher mountain to climb next, one with no end in sight. Life's never ending joke. 
+I did it, I graduated. Thanksgiving Day I was grateful, but shortly after I began to realize what was to come next. I got to the top of the mountain, I accomplished the goal I had set for 7 months only to find I had but arrived to the first resting spot, with an even higher mountain to next to climb, one with no end in sight. Life's never ending joke. 
 
-Luckily, there was no turning back, I was excited about what I'd gained in attending a bootcamp and what I had ahead of me -- a job working on my craft everyday and contributing to something that was bigger than me. I also quickly realized that although the structured lessons and labs provided by Flatiron were at an end, the learning and building were far from finished. Not only could I not stop coding, but I also was required to create my own portfolio website (a daunting task in itself), start my next project, learn data structures and algorithms, continue working on code challenges, and begin networking and applying to jobs. It was a bit overwhelming to start. I'm very thankful to have had my bootcamp experience of learning on my own, and the diligence to take on these new challenges. Additionally, I'm grateful for the support from friends, family, Flatiron coaches, and the developer community. 
+Luckily, there was no turning back. I was excited about what I'd gained in attending a bootcamp and what I had ahead of me -- a job working on my craft everyday and contributing to something bigger than me. Filled with excitement and motivation, I jumped into the job search.  I quickly realized that although the structured lessons and labs provided by Flatiron were at an end, the learning and building were far from over. Not only could I not stop coding, but I also was required to create my own portfolio website (a daunting task in itself), start my next project, learn data structures and algorithms, continue working on code challenges, and begin networking and applying to jobs. It was a bit overwhelming to start. I'm very thankful to have had my bootcamp experience of learning on my own, and the diligence to take on new challenges. Additionally, I'm grateful for the support from friends, family, Flatiron coaches, and the developer community. 
 
 I think it's important to remember there will never be an end in sight, and that's exciting. In my efforts to create a portfolio, take on new projects, and tackle challenging coding exercises,  I am growing and practicing resilience.  I chose a career where I will constantly be learning regardless of where I am in the process, whether I'm a junior or senior developer. And that is exciting. 
 
