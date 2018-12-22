@@ -25,17 +25,3 @@ Transitioning from a background in sales to development has been a pleasant surp
 
 
 
-
-
-
-
-
-
-
-
-
-
-I. Finishing bootcamp, graduating, feeling the high and then immediate dread of the next mountain to climb. 
-II. Overwhelm at working on coding challenges/whiteboarding + building next project + creating portfolio + applying to job 
-III. Applying to jobs, realizing that may not be the best approach 
-IV. Networking with fellow developers and realizing how incredible this new development community is. 
