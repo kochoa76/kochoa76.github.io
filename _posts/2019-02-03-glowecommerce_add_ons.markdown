@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "GlowEcommerce Add Ons "
-date:       2019-02-04 03:28:27 +0000
+date:       2019-02-03 22:28:28 -0500
 permalink:  glowecommerce_add_ons
 ---
 
@@ -25,30 +25,31 @@ I'm about 2/3's of the way through fully building this app but I've been buildin
 Stripe is the system used within this course and as a result I will be implementing Stripe as the payment system for GlowEcommerce. There are a few benefits and drawbacks I've learned from my Stripe research, defined below: 
 
 Benefits: 
-   -great documentation 
-	 -Excellent developer tools
-   -Predictable flat-rate pricing
-   -Advanced reporting tools
-   -Ideal for international merchants
-   -Excellent marketplace tools
-   -Excellent subscription tools
-   -Multi-currency support
+*    great documentation 
+* 	 Excellent developer tools
+*    Predictable flat-rate pricing
+*    Advanced reporting tools
+*    Ideal for international merchants
+*    Excellent marketplace tools
+*    Excellent subscription tools
+*    Multi-currency support
 	 
 Drawbacks: 
-  -Account stability issues
-  -Not suitable for high-risk industries
+*   Account stability issues
+*   Not suitable for high-risk industries
 	
-	**Receipt to Purchaser**
+
+**Receipt to Purchaser**
 	
-	To add onto the benefits of Stripe, the system includes the ability to send an email with a receipt of the user's purchase as well as a receipt of any refund to the user.    
+To add onto the benefits of Stripe, the system includes the ability to send an email with a receipt of the user's purchase as well as a receipt of any refund to the user.    
 	
-	I've yet to build this piece of the app (Stripe) with Efeedback, but I"m looking forward to it. 
+I've yet to build this piece of the app (Stripe) with Efeedback, but I"m looking forward to it. 
 	
-	**Persisting Cart State to Server**
+**Persisting Cart State to Server**
 	
-	In terms of persisting state to the server, I could create an action method within Redux that 'posts' the item selected to add to the cart to the backend through a fetch request which updates the database with the cart item quantity.  This would involve some redesign but nothing that hasn't already been implemented in the app already. 
+In terms of persisting state to the server, I could create an action method within Redux that 'posts' the item selected to add to the cart to the backend through a fetch request which updates the database with the cart item quantity.  This would involve some redesign but nothing that hasn't already been implemented in the app already. 
 	
-	I plan on finishing Efeedback prior to starting to add these changes to GlowEcommerce. I'm looking forward to making more progress and learning more about building Ecommerce specific applications. 
+I plan on finishing Efeedback prior to starting to add these changes to GlowEcommerce. I'm looking forward to making more progress and learning more about building Ecommerce specific applications. 
 	
 	
 	
