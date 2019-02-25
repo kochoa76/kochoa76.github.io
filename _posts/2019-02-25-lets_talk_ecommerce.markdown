@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Let's talk Ecommerce "
-date:       2019-02-25 21:40:36 +0000
+date:       2019-02-25 16:40:37 -0500
 permalink:  lets_talk_ecommerce
 ---
 
@@ -27,11 +27,13 @@ More importantly what kind of experience do you want to provide your users? Woul
 
 Let's review these features in this next section of the blog. I've divided these Ecommerce features based on whether their services are tailored to the customer( i.e. assisting with user experience) or tailored to the retailer. 
 
-**Retailer-based eCommerce Features**
+**Retailer-focused eCommerce Features**
 
 In order to provide these trendy features for retailers, there are a range of API's provided by API creators that specialize in that given functionality. No need to code from scratch. 
 
 Cart API - This feature is pretty awesome. It allows for retailers to be able to see which items a customer plans to purchase, and specifically, if a customer did not purchase that item, it allows for the ability to recover from that missed opportunity. Retailers can offer discounts for that particular item so that the user can convert. 
+
+Product API - extracts product information from a global database of products to be able to update product information such as product image, quantity-based discounts, description, 
 
 Payment API- Having a fully functional payment API is almost a necessity today. It alleviates many of the pains and manual aspects of processing payments, and many platforms even handle foreign currencies.  I go into the benefits of Stripe in my [previous blog](http://kaylaochoa.com/glowecommerce_add_ons). 
 
@@ -40,4 +42,16 @@ Price Comparison API - There are certain API's that allow a retailer to view wha
 Marketing Automation API- allows retailers to automatically add customers to email lists relevant to the purchases they've recently made, customer location, etc. 
 
 Shipping API - integrates a shipping feature directly to your eCommerce site. Rates are automatically calculated, labels are created, and tracking numbers are generated. 
+
+**Customer-focused eCommerce Features **
+
+Site-search API - allows a customer to find a particular brand, model, or item through a search feature. 
+
+Login API - allows users to login using a platform they already have such as Amazon, Facebook, GSuite many using JWT authentication. 
+
+Recommendation Engine API - provides recommendations for particular items based on a customer's purchasing history or search history.
+
+There are a range of platforms that have already built out these APIs to ensure ease of use for developers. To me, this is exciting as I contemplate how far eCommerce has evolved compared to just a few years ago.
+
+
 
